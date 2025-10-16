@@ -11,4 +11,5 @@ I live in Mölnlycke with my girlfriend and cat. I've played badminton at a high
 
 ## .ContactMe()
 Website: [mobiasson.github.io/mrt-portfolio](https://mobiasson.github.io/mrt-portfolio/)  
-LinkedIn: [linkedin.com/in/mikael-ros-tobiasson](https://www.linkedin.com/in/mikael-ros-tobiasson-3b632a243/)
+LinkedIn: [linkedin.com/in/mikael-ros-tobiasson](https://www.linkedin.com/in/mikael-ros-tobiasson-3b632a243/)  
+Email: [mikaeltobiasson@hotmail.com](mailto:mikaeltobiasson@hotmail.com)
